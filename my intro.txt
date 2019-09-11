@@ -1,4 +1,8 @@
-Hi i like to place my findings here
-i have added this line after uploading my file
+hello
 
-now i will add new line and comit on another branch
+django-admin.py version
+
+for bat files
+https://www.windowscentral.com/how-create-and-run-batch-file-windows-10
+
+
