@@ -6,3 +6,8 @@ for bat files
 https://www.windowscentral.com/how-create-and-run-batch-file-windows-10
 
 
+start "" "C:\Program Files\JetBrains\PyCharm 2019.2.2\bin\pycharm64.exe"  
+
+......to run app from cmd prompt
+
+
