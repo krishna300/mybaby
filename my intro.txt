@@ -10,4 +10,4 @@ start "" "C:\Program Files\JetBrains\PyCharm 2019.2.2\bin\pycharm64.exe"
 
 ......to run app from cmd prompt
 
-
+http://localhost:8000/blog/
