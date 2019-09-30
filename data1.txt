@@ -1,0 +1,23 @@
+# hacker rank i read 3 problems 
+
+
+used all this for getting runner up score /last but one value
+
+	set()
+	sorted(key,reverse=True)
+	sort()
+	list()
+	join()
+	
+sorted makes new list
+sort doesn't make a new list
+	
+
+
+i also learnt how to read files/search 
+
+
+Regularly used funcs :
+map()
+max()
+split()
