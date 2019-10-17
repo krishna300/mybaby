@@ -1,0 +1,69 @@
+Data Science using Python | Mr Rajesh Jakhotia| 3 Oct 2018 | Residency 6 Day 1 Session 1
+a year ago
+1:23:45
+
+
+/databases are fast using indexing concept as _index in book
+
+/analysis data using python
+
+/t -test ?
+
+/null hypothesis--alternate hypothesis
+
+/fertiliserr example...
+	/null-(height is not function of fertilise used)
+	/alternate -(height is function of fertilise used)
+	/U want alternate hypothesis to be true here 
+	/mean_**Standard deviation conceps and usage said here
+
+/bucket example
+	/b1 has good customers..b2 has bad customers
+	/so there is actual data of b1_b2 ...and predicted data of b1_b2
+ 	/null-(no diference in actual and predicted model)
+	/alternate -(predicted data will be different from actual)
+	/ U want null to be true here
+
+/milk example
+	/company says paking more than 1 Ltr
+	/customer says packets are less than 1 Ltr
+	/shop floor manager(SFM) feels milk is exactly packed
+	/from SFM point of view 
+		/null-	 mean=1
+		/alternate -mean!=1
+/motor bike company example
+	/company says mileage is >125
+	/competitor point of view 
+		/null - mean=125
+		/alternate- mean <125
+
+
+//what i get from above example is..
+	/null is always lazy ..and says everything fine
+	/and alternate is which accepts the flaws/changes
+
+/credit loan example
+	/NPA-Non Paying Assets
+	/banks giving loans based on Score card recently instead of manual officer validation
+	/it is stated that score cards helped reduce NPA by more than 0.25
+		/null is new-old_NPA <= 0.25
+		/alternate is new-old_NPA >0.25
+
+
+/from above last 3 examples 
+	/alter hyp has been like...
+		mean !=
+		mean <
+		mean >
+	/so u can call them as rejection area of null hypothesi....correspondiingly
+		
+?all time null hypo go with mean(U)=something
+
+	/because z test z=x-u/(sigma/root(n))
+	/here u want to take point estimate of u 
+	/ so thats why u always want to pull mean=something into null hypo
+
+
+
+
+
